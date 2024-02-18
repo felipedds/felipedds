@@ -8,7 +8,7 @@
   </a>
 </div>
 </br>
-- 👋 Hi, I’m Felipe D. Souza.
+<li>- 👋 Hi, I’m Felipe D. Souza.</li>
 - 🔭 I’m currently working on Analytics and Machine Learning Projects
 - 🌱 ’m currently learning data storytelling
 - 👯 I’m looking to collaborate in solving industry/business problems
