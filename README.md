@@ -8,10 +8,10 @@
   </a>
 </div>
 </br>
-<li>- 👋 Hi, I’m Felipe D. Souza.</li>
-- 🔭 I’m currently working on Analytics and Machine Learning Projects
-- 🌱 ’m currently learning data storytelling
-- 👯 I’m looking to collaborate in solving industry/business problems
-- 💬 Ask me about Data Analytics and Machine Learning
-- ⚡ Fun fact: I love music, coding and beach.
+<li>👋 Hi, I’m Felipe D. Souza.</li>
+<li>🔭 I’m currently working on Analytics and Machine Learning Projects</li>
+<li>🌱 ’m currently learning data storytelling</li>
+<li>👯 I’m looking to collaborate in solving industry/business problems</li>
+<li>💬 Ask me about Data Analytics and Machine Learning</li>
+<li>⚡ Fun fact: I love music, coding and beach</li>
 
