@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
-
+<br>
 - 👋 Hi, I’m Felipe D. Souza.
 - 🔭 I’m currently working on Analytics and Machine Learning Projects
 - 🌱 ’m currently learning data storytelling
