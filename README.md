@@ -13,7 +13,7 @@
 <li>🌱 ’m currently learning data storytelling</li>
 <li>👯 I’m looking to collaborate in solving industry/business problems</li>
 <li>💬 Ask me about Data Analytics and Machine Learning</li>
-<li>⚡ Fun fact: I love music, coding and beach</li>
+<li>⚡ I love sports, coding and music</li>
 
 ## Skills and Tools: <div>
 <p align="center">
