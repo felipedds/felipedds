@@ -10,7 +10,7 @@
 </br>
 <li>👋 Hi, I’m Felipe D. Souza.</li>
 <li>🔭 I’m currently working on Analytics and Machine Learning Projects</li>
-<li>🌱 ’m currently learning data storytelling</li>
+<li>🌱 I’m currently learning data storytelling</li>
 <li>👯 I’m looking to collaborate in solving industry/business problems</li>
 <li>💬 Ask me about Data Analytics and Machine Learning</li>
 <li>⚡ I love sports, coding and music</li>
