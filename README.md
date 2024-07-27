@@ -9,18 +9,13 @@
 </div>
 </br>
 <li>👋 Hi, I’m Felipe D. Souza.</li>
-<li>🔭 I’m currently working on Analytics and Machine Learning Projects</li>
-<li>🌱 I’m currently learning data storytelling</li>
-<li>👯 I’m looking to collaborate in solving industry/business problems</li>
-<li>💬 Ask me about Data Analytics and Machine Learning</li>
+<li>🔭 I’m currently working on DevOps Projects</li>
+<li>🌱 I’m currently studying to become a Kubestronaut</li>
+<li>💬 Ask me about Pipelines and Cloud and Kubernetes</li>
 <li>⚡ I love sports, coding and music</li>
 
 ## Skills and Tools: <div>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/> </a>
-  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
-
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/> </a> 
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:Microsoft_Azure.svg" title="Azure" alt="Azure" width="60" height="60"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3C7pk0FGKp19s1NJ2w64X1lFilluE-mKGg&s" title="Docker" alt="Docker" width="60" height="60"/> </a>
