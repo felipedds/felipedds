@@ -19,5 +19,5 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" title="GitHub Actions" alt="GitHub Actions" width="60" height="60"/></a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLDJHCPEwjND1n8zRkZij43mASb-r5NFAh5A&s" title="Azure" alt="Azure" width="60" height="60"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqea62MI9LsCBEPZ4WCRjBO7eKY08zYXacGg&s" title="Docker" alt="Docker" width="60" height="60"/></a>
-  <a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title="Python" alt="Helm" width="60" height="60"/></a>
+  <a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" title="Python" alt="Helm" width="60" height="60"/></a>
 </p>
