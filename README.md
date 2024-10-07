@@ -8,10 +8,10 @@
 </div>
 </br>
 <li>👋 Hi, I’m Felipe D. Souza.</li>
-<li>🔭 I’m currently working on DevOps Projects</li>
-<li>🌱 I’m currently studying to become a Kubestronaut</li>
-<li>💬 Ask me about Pipelines and Cloud and Kubernetes</li>
-<li>⚡ I love sports, coding and music</li>
+<li>🔭 I’m currently working on Data and BI Projects</li>
+<li>🌱 I’m currently studying Storytelling</li>
+<li>💬 Ask me about Data, Number and Soccer</li>
+<li>⚡ I love sports, curiosities and music</li>
 
 ## Skills and Tools: <div>
 <p align="center">
