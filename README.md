@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://2655225.fs1.hubspotusercontent-na1.net/hubfs/2655225/databricks-logo-1.png?width=500&name=databricks-logo-1.png" title="Databricks" alt="Databricks" width="60" height="60"/></a>
   <a href="https://delta.io/" target="_blank" rel="noreferrer"> <img src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png" title="Delta lake" alt="Delta lake" width="60" height="60"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20190418/qty/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-1713897691932.webp" title="AWS" alt="AWS" width="60" height="60"/></a> 
+  <a href="https://azure.microsoft.com/pt-br/get-started/azure-portal/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="60" height="60"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqea62MI9LsCBEPZ4WCRjBO7eKY08zYXacGg&s" title="Docker" alt="Docker" width="60" height="60"/></a>
   <a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" title="Python" alt="Helm" width="60" height="60"/></a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.redhat.com/rhdc/managed-files/helm.svg" title="Helm" alt="Helm" width="60" height="60"/></a>
