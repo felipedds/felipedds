@@ -15,7 +15,7 @@
 
 ## Skills and Tools: <div>
 <p align="center">
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/></a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://2655225.fs1.hubspotusercontent-na1.net/hubfs/2655225/databricks-logo-1.png?width=500&name=databricks-logo-1.png" title="Databricks" alt="Databricks" width="60" height="60"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" title="GitHub Actions" alt="GitHub Actions" width="60" height="60"/></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20190418/qty/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-1713897691932.webp" title="AWS" alt="AWS" width="60" height="60"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqea62MI9LsCBEPZ4WCRjBO7eKY08zYXacGg&s" title="Docker" alt="Docker" width="60" height="60"/></a>
