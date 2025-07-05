@@ -20,7 +20,7 @@
   <a href="https://azure.microsoft.com/pt-br/get-started/azure-portal/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" title="Azure" alt="Azure" width="60" height="60"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqea62MI9LsCBEPZ4WCRjBO7eKY08zYXacGg&s" title="Docker" alt="Docker" width="60" height="60"/></a>
   <a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" title="Python" alt="Helm" width="60" height="60"/></a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.redhat.com/rhdc/managed-files/helm.svg" title="Helm" alt="Helm" width="60" height="60"/></a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" title="Spark" alt="Spark" width="60" height="60"/></a>
 
 
   
