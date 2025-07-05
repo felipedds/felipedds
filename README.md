@@ -8,9 +8,9 @@
 </div>
 </br>
 <li>👋 Hi, I’m Felipe D. Souza.</li>
-<li>🔭 I’m currently working on DevSecOps/Cloud Projects</li>
-<li>🌱 I’m currently studying GitOps</li>
-<li>💬 Ask me about Infra, Cloud and CI/CD pipelines</li>
+<li>🔭 I’m currently working on DataOps Projects</li>
+<li>🌱 I’m currently studying AI</li>
+<li>💬 Ask me about Databricks, Azure and Data pipelines</li>
 <li>⚡ I love sports, curiosities and music</li>
 
 ## Skills and Tools: <div>
