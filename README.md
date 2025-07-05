@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15457a2e-ee4b-4453-badc-9995f0217fca)<div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/felipe-d-souza-171345265">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
