@@ -1,4 +1,4 @@
-<div id="badges">
+![image](https://github.com/user-attachments/assets/b5d9dda8-07c5-4320-8e07-90e52adbbd6a)<div id="badges">
   <a href="https://www.linkedin.com/in/felipe-d-souza-171345265">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,7 +16,7 @@
 ## Skills and Tools: <div>
 <p align="center">
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://2655225.fs1.hubspotusercontent-na1.net/hubfs/2655225/databricks-logo-1.png?width=500&name=databricks-logo-1.png" title="Databricks" alt="Databricks" width="60" height="60"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" title="GitHub Actions" alt="GitHub Actions" width="60" height="60"/></a>
+  <a href="https://delta.io/" target="_blank" rel="noreferrer"> <img src="https://www.databricks.com/wp-content/uploads/2019/09/delta-lake-logo.png" title="Delta lake" alt="Delta lake" width="60" height="60"/></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20190418/qty/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-1713897691932.webp" title="AWS" alt="AWS" width="60" height="60"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqea62MI9LsCBEPZ4WCRjBO7eKY08zYXacGg&s" title="Docker" alt="Docker" width="60" height="60"/></a>
   <a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" title="Python" alt="Helm" width="60" height="60"/></a>
